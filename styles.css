@@ -9,6 +9,8 @@ header{
 	background-color: #011e29;
 	display:flex;
 	text-align:center;
+justify-content:center;
+	
 }
 .heading1{
 	color:white;
